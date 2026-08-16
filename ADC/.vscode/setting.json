@@ -1,0 +1,24 @@
+{
+    "editor.minimap.enabled": false,
+    "C_Cpp.semanticHighlighting.enabled": false,
+    "C_Cpp.intelliSenseEngine": "Tag Parser",
+    "C_Cpp.intelliSenseCacheSize": 32768,
+    "C_Cpp.errorSquiggles": "EnabledIfIncludesResolved",
+    "C_Cpp.files.exclude": {
+        "**/build/**": true,
+        "**/Debug/**": true,
+        "**/.git/**": true
+    },
+    "editor.folding": false,
+    "editor.matchBrackets": false,
+    "editor.stickyScroll.enabled": false,
+    "editor.codeLens": false,
+    "editor.renderWhitespace": "none",
+    "editor.quickSuggestionsDelay": 800,
+    "files.watcherExclude": {
+        "**/build": true,
+        "**/Debug": true,
+        "**/.git": true,
+        "**/.vscode/ipch": true
+    }
+}

@@ -1,0 +1,12 @@
+IndentWidth: 4
+AlignConsecutiveDeclarations: true
+AlignConsecutiveAssignments: true
+ColumnLimit: 150
+BasedOnStyle: LLVM
+IndentCaseLabels: true
+BreakBeforeBraces: Stroustrup
+AllowShortBlocksOnASingleLine: Empty
+AllowShortIfStatementsOnASingleLine: true
+AllowShortLoopsOnASingleLine: true
+AllowShortFunctionsOnASingleLine: true
+SortIncludes: false

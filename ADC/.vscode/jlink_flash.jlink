@@ -1,0 +1,7 @@
+r
+h
+loadfile ./build/STM32G473_ADC.bin 0x08000000
+verifyfile ./build/STM32G473_ADC.bin 0x08000000
+r
+g
+q

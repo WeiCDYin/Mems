@@ -1,0 +1,17 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "shell",
+			"label": "make all",
+			"command": "make all",
+			"problemMatcher": []
+		},
+		{
+			"type": "shell",
+			"label": "make flash",
+			"command": "make stlink-flash",
+			"problemMatcher": []
+		}
+	]
+}
