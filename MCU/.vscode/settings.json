@@ -1,0 +1,9 @@
+{
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "d:\\00_Project\\001_MEMS\\02_STM32G473\\MCU\\build",
+            "binaryPath": "d:\\00_Project\\001_MEMS\\02_STM32G473\\MCU\\build\\STM32G473_MCU.elf",
+            "binaryArgs": []
+        }
+    ]
+}
